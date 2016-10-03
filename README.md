@@ -1,3 +1,8 @@
-# Week 1: Rewriting Lodash
+# Learners Guild Weekly Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is the stuff I covered every week, written as a guidebook for future learners.
+
+I'm really driving for there to be some kind of communally developed, incentivized lore to build upon, associated with individual project goals. I'm not sure how long I'll keep it up, or how good my examples will be, but hopefully this works as a scribble pad.
+
+
+
