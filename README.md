@@ -1,4 +1,4 @@
-# Learners Guild Weekly Guide
+# Learners Guild Weekly Guide?????
 
 This is the stuff I covered every week, written as a guidebook for future learners.
 
@@ -11,10 +11,3 @@ I'm writing this completely discursively, in a lesson format rather than as a jo
 As regards commandline step-by-steps, I'll try to cram each entry with 100% of what we did on our Learners Guild team, in order to minimize the amount of time that you might need to dig around for the info. I've noticed that when curated step-by-step guides like these are provided, it disincentivizes the Google-sleuthing that one has to do, which is a useful skill in itself, but as a beginner it can be really difficult to separate what's relevant or irrelevant. In an attempt to balance this, I've attempted to include links at the end to the best of my ability.
 
 Not all projects lead to clean lessons, but they will have allowed for a contrast of perspectives, such as the React project in Week 2.
-
-
-
-
-
-
-
