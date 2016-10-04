@@ -6,6 +6,8 @@
 
 Rebuilding Lodash is an excellent way to play with blah blah blah!
 
+ARGH GITHUB SYNC IS EATING MY BALLS!!!
+
 ## The Functions
 
 ### filter(array, function/object/array)
